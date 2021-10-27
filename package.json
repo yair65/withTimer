@@ -1,0 +1,19 @@
+{
+  "name": "withtimer",
+  "version": "1.0.0",
+  "description": "A javascript tool that times your functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yair65/withTimer.git"
+  },
+  "author": "Yair Feldman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yair65/withTimer/issues"
+  },
+  "homepage": "https://github.com/yair65/withTimer#readme"
+}
